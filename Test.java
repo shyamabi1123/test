@@ -25,19 +25,11 @@ public class Test {
     System.out.println("The multiplcation result is: " +result2);
 
 
-    static void div(){
-
-    int s=5;
-    int t=8;
-    int result3 = s/t;
-    System.out.println("The division result is: " +result3);
-  }
-
   public static void main(String[] args)
   {
     add();
     sub();
     multi();
-    div();
+   
   }
 }
