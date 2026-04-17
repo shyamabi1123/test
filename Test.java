@@ -23,7 +23,14 @@ public class Test {
     int y=8;
     int result2 = x*y;
     System.out.println("The multiplcation result is: " +result2);
-    
+
+
+      static void div(){
+
+    int s=5;
+    int t=8;
+    int result3 = s/t;
+    System.out.println("The divition result is: " +result3);
   }
 
   public static void main(String[] args)
